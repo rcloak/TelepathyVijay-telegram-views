@@ -49,3 +49,4 @@ https://raw.githubusercontent.com/clarketm/proxy
 http://k2ysarchive.xyz/proxy/http.txt
 https://proxyspace.pro/http.txt
 https://proxyspace.pro/https.txt
+https://rcloak.com/api/proxies/raw?protocol=http
