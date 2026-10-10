@@ -53,3 +53,4 @@ https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks5.txt
 http://worm.rip/socks5.txt
 https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt
 http://k2ysarchive.xyz/proxy/socks5.txt
+https://rcloak.com/api/proxies/raw?protocol=socks5
